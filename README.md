@@ -1,1 +1,1 @@
-# try-django
+# Movies in theatres
