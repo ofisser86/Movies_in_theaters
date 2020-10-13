@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 django = "==2.2.16"
+beautifulsoup4 = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"
