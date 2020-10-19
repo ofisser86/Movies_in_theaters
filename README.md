@@ -13,4 +13,4 @@
 * NGINX
 ---
 
-#### ![Link to site preview](http://46.101.107.10/) 
+#### [Link to site preview](http://46.101.107.10/) 
